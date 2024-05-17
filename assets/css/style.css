@@ -3,7 +3,7 @@
   --bg-body: #fff;
   --txt-body: #000;
   --bg-nav: #fff;
-  --color-primary: #fe7777;
+  --color-primary: #7777fe;
   --btn-color: #000;
 }
 
@@ -12,7 +12,7 @@ body.dark {
   --txt-body: #f0f0f0;
   --bg-nav: #111;
   --btn-color: #fff;
-  --color-primary: #fe7777;
+  --color-primary: #7777fe;
 }
 
 html {
