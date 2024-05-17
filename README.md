@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de mi portafolio personal, desarrollado con HTML, CSS y JavaScript. El propósito de este proyecto es presentar mi experiencia, habilidades y proyectos en un formato interactivo y atractivo para posibles empleadores y clientes.
 
-[![Portafolio de Nicolás Gomez](\assets\img\Diseños portfolio.jpg)](https://tsx-dev.netlify.app)
+[![Portafolio de Nicolás Gomez](assets\img\Diseños portfolio.jpg)](https://app.netlify.com/teams/niko18297/)
 
 ## Características principales
 
